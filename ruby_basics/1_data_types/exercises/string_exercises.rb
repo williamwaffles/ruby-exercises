@@ -58,6 +58,8 @@ end
 
 puts "Length of string example:"
 puts string_length("bicycle")
+puts string_length("tricycle")
+
 
 def reverse(string)
   # return the same string, with all of its characters reversed
